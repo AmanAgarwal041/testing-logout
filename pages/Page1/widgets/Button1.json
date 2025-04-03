@@ -31,7 +31,7 @@
   "mobileRightColumn": 45,
   "mobileTopRow": 22,
   "needsErrorInfo": false,
-  "onClick": "{{logoutUser('/app/my-first-application/page1-67ee7b0efa042408115b45a6/edit/widgets/vcshijnka5?environment=staging&branch=abc');}}",
+  "onClick": "{{logoutUser('/app/my-first-application/page1-67ee7b0efa042408115b45a6/edit/widgets/vcshijnka5?environment=staging&branch=testing');}}",
   "parentColumnSpace": 13.0625,
   "parentId": "0",
   "parentRowSpace": 10,
